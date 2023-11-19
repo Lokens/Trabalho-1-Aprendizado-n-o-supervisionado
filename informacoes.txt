@@ -1,0 +1,294 @@
+Informações para imagem img/2.png com k=2:
+Resolução: (2160, 3840)
+Tamanho em memória: 6850 KB
+Cores únicas: 171136
+Nome do arquivo de saída: imagem_2_k2.png
+
+Informações para imagem img/2.png com k=4:
+Resolução: (2160, 3840)
+Tamanho em memória: 6850 KB
+Cores únicas: 171136
+Nome do arquivo de saída: imagem_2_k4.png
+
+Informações para imagem img/2.png com k=6:
+Resolução: (2160, 3840)
+Tamanho em memória: 6850 KB
+Cores únicas: 171136
+Nome do arquivo de saída: imagem_2_k6.png
+
+Informações para imagem img/2.png com k=8:
+Resolução: (2160, 3840)
+Tamanho em memória: 6850 KB
+Cores únicas: 171136
+Nome do arquivo de saída: imagem_2_k8.png
+
+Informações para imagem img/2.png com k=10:
+Resolução: (2160, 3840)
+Tamanho em memória: 6850 KB
+Cores únicas: 171136
+Nome do arquivo de saída: imagem_2_k10.png
+
+Informações para imagem img/2.png com k=12:
+Resolução: (2160, 3840)
+Tamanho em memória: 6850 KB
+Cores únicas: 171136
+Nome do arquivo de saída: imagem_2_k12.png
+
+Informações para imagem img/2.png com k=14:
+Resolução: (2160, 3840)
+Tamanho em memória: 6850 KB
+Cores únicas: 171136
+Nome do arquivo de saída: imagem_2_k14.png
+
+Informações para imagem img/3.png com k=2:
+Resolução: (2160, 3840)
+Tamanho em memória: 4308 KB
+Cores únicas: 100882
+Nome do arquivo de saída: imagem_3_k2.png
+
+Informações para imagem img/3.png com k=4:
+Resolução: (2160, 3840)
+Tamanho em memória: 4308 KB
+Cores únicas: 100882
+Nome do arquivo de saída: imagem_3_k4.png
+
+Informações para imagem img/3.png com k=6:
+Resolução: (2160, 3840)
+Tamanho em memória: 4308 KB
+Cores únicas: 100882
+Nome do arquivo de saída: imagem_3_k6.png
+
+Informações para imagem img/3.png com k=8:
+Resolução: (2160, 3840)
+Tamanho em memória: 4308 KB
+Cores únicas: 100882
+Nome do arquivo de saída: imagem_3_k8.png
+
+Informações para imagem img/3.png com k=10:
+Resolução: (2160, 3840)
+Tamanho em memória: 4308 KB
+Cores únicas: 100882
+Nome do arquivo de saída: imagem_3_k10.png
+
+Informações para imagem img/3.png com k=12:
+Resolução: (2160, 3840)
+Tamanho em memória: 4308 KB
+Cores únicas: 100882
+Nome do arquivo de saída: imagem_3_k12.png
+
+Informações para imagem img/3.png com k=14:
+Resolução: (2160, 3840)
+Tamanho em memória: 4308 KB
+Cores únicas: 100882
+Nome do arquivo de saída: imagem_3_k14.png
+
+Informações para imagem img/4.png com k=2:
+Resolução: (2160, 3840)
+Tamanho em memória: 4259 KB
+Cores únicas: 105014
+Nome do arquivo de saída: imagem_4_k2.png
+
+Informações para imagem img/4.png com k=4:
+Resolução: (2160, 3840)
+Tamanho em memória: 4259 KB
+Cores únicas: 105014
+Nome do arquivo de saída: imagem_4_k4.png
+
+Informações para imagem img/4.png com k=6:
+Resolução: (2160, 3840)
+Tamanho em memória: 4259 KB
+Cores únicas: 105014
+Nome do arquivo de saída: imagem_4_k6.png
+
+Informações para imagem img/4.png com k=8:
+Resolução: (2160, 3840)
+Tamanho em memória: 4259 KB
+Cores únicas: 105014
+Nome do arquivo de saída: imagem_4_k8.png
+
+Informações para imagem img/4.png com k=10:
+Resolução: (2160, 3840)
+Tamanho em memória: 4259 KB
+Cores únicas: 105014
+Nome do arquivo de saída: imagem_4_k10.png
+
+Informações para imagem img/4.png com k=12:
+Resolução: (2160, 3840)
+Tamanho em memória: 4259 KB
+Cores únicas: 105014
+Nome do arquivo de saída: imagem_4_k12.png
+
+Informações para imagem img/4.png com k=14:
+Resolução: (2160, 3840)
+Tamanho em memória: 4259 KB
+Cores únicas: 105014
+Nome do arquivo de saída: imagem_4_k14.png
+
+Informações para imagem img/6.png com k=2:
+Resolução: (2160, 3840)
+Tamanho em memória: 5732 KB
+Cores únicas: 108632
+Nome do arquivo de saída: imagem_6_k2.png
+
+Informações para imagem img/6.png com k=4:
+Resolução: (2160, 3840)
+Tamanho em memória: 5732 KB
+Cores únicas: 108632
+Nome do arquivo de saída: imagem_6_k4.png
+
+Informações para imagem img/6.png com k=6:
+Resolução: (2160, 3840)
+Tamanho em memória: 5732 KB
+Cores únicas: 108632
+Nome do arquivo de saída: imagem_6_k6.png
+
+Informações para imagem img/6.png com k=8:
+Resolução: (2160, 3840)
+Tamanho em memória: 5732 KB
+Cores únicas: 108632
+Nome do arquivo de saída: imagem_6_k8.png
+
+Informações para imagem img/6.png com k=10:
+Resolução: (2160, 3840)
+Tamanho em memória: 5732 KB
+Cores únicas: 108632
+Nome do arquivo de saída: imagem_6_k10.png
+
+Informações para imagem img/6.png com k=12:
+Resolução: (2160, 3840)
+Tamanho em memória: 5732 KB
+Cores únicas: 108632
+Nome do arquivo de saída: imagem_6_k12.png
+
+Informações para imagem img/6.png com k=14:
+Resolução: (2160, 3840)
+Tamanho em memória: 5732 KB
+Cores únicas: 108632
+Nome do arquivo de saída: imagem_6_k14.png
+
+Informações para imagem img/5.png com k=2:
+Resolução: (2160, 3840)
+Tamanho em memória: 4901 KB
+Cores únicas: 151842
+Nome do arquivo de saída: imagem_5_k2.png
+
+Informações para imagem img/5.png com k=4:
+Resolução: (2160, 3840)
+Tamanho em memória: 4901 KB
+Cores únicas: 151842
+Nome do arquivo de saída: imagem_5_k4.png
+
+Informações para imagem img/5.png com k=6:
+Resolução: (2160, 3840)
+Tamanho em memória: 4901 KB
+Cores únicas: 151842
+Nome do arquivo de saída: imagem_5_k6.png
+
+Informações para imagem img/5.png com k=8:
+Resolução: (2160, 3840)
+Tamanho em memória: 4901 KB
+Cores únicas: 151842
+Nome do arquivo de saída: imagem_5_k8.png
+
+Informações para imagem img/5.png com k=10:
+Resolução: (2160, 3840)
+Tamanho em memória: 4901 KB
+Cores únicas: 151842
+Nome do arquivo de saída: imagem_5_k10.png
+
+Informações para imagem img/5.png com k=12:
+Resolução: (2160, 3840)
+Tamanho em memória: 4901 KB
+Cores únicas: 151842
+Nome do arquivo de saída: imagem_5_k12.png
+
+Informações para imagem img/5.png com k=14:
+Resolução: (2160, 3840)
+Tamanho em memória: 4901 KB
+Cores únicas: 151842
+Nome do arquivo de saída: imagem_5_k14.png
+
+Informações para imagem img/1.png com k=2:
+Resolução: (1080, 1920)
+Tamanho em memória: 3071 KB
+Cores únicas: 472154
+Nome do arquivo de saída: imagem_1_k2.png
+
+Informações para imagem img/1.png com k=4:
+Resolução: (1080, 1920)
+Tamanho em memória: 3071 KB
+Cores únicas: 472154
+Nome do arquivo de saída: imagem_1_k4.png
+
+Informações para imagem img/1.png com k=6:
+Resolução: (1080, 1920)
+Tamanho em memória: 3071 KB
+Cores únicas: 472154
+Nome do arquivo de saída: imagem_1_k6.png
+
+Informações para imagem img/1.png com k=8:
+Resolução: (1080, 1920)
+Tamanho em memória: 3071 KB
+Cores únicas: 472154
+Nome do arquivo de saída: imagem_1_k8.png
+
+Informações para imagem img/1.png com k=10:
+Resolução: (1080, 1920)
+Tamanho em memória: 3071 KB
+Cores únicas: 472154
+Nome do arquivo de saída: imagem_1_k10.png
+
+Informações para imagem img/1.png com k=12:
+Resolução: (1080, 1920)
+Tamanho em memória: 3071 KB
+Cores únicas: 472154
+Nome do arquivo de saída: imagem_1_k12.png
+
+Informações para imagem img/1.png com k=14:
+Resolução: (1080, 1920)
+Tamanho em memória: 3071 KB
+Cores únicas: 472154
+Nome do arquivo de saída: imagem_1_k14.png
+
+Informações para imagem img/7.png com k=2:
+Resolução: (1152, 2047)
+Tamanho em memória: 1344 KB
+Cores únicas: 123245
+Nome do arquivo de saída: imagem_7_k2.png
+
+Informações para imagem img/7.png com k=4:
+Resolução: (1152, 2047)
+Tamanho em memória: 1344 KB
+Cores únicas: 123245
+Nome do arquivo de saída: imagem_7_k4.png
+
+Informações para imagem img/7.png com k=6:
+Resolução: (1152, 2047)
+Tamanho em memória: 1344 KB
+Cores únicas: 123245
+Nome do arquivo de saída: imagem_7_k6.png
+
+Informações para imagem img/7.png com k=8:
+Resolução: (1152, 2047)
+Tamanho em memória: 1344 KB
+Cores únicas: 123245
+Nome do arquivo de saída: imagem_7_k8.png
+
+Informações para imagem img/7.png com k=10:
+Resolução: (1152, 2047)
+Tamanho em memória: 1344 KB
+Cores únicas: 123245
+Nome do arquivo de saída: imagem_7_k10.png
+
+Informações para imagem img/7.png com k=12:
+Resolução: (1152, 2047)
+Tamanho em memória: 1344 KB
+Cores únicas: 123245
+Nome do arquivo de saída: imagem_7_k12.png
+
+Informações para imagem img/7.png com k=14:
+Resolução: (1152, 2047)
+Tamanho em memória: 1344 KB
+Cores únicas: 123245
+Nome do arquivo de saída: imagem_7_k14.png
+

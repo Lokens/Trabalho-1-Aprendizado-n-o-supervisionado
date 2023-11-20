@@ -1,6 +1,7 @@
 import cv2
 import os
 import numpy as np
+import re
 
 valores_k = [2, 4, 6, 8, 10, 12, 14]
 diretorio_imagens = "img"
@@ -28,26 +29,27 @@ def aplicar_kmeans(imagem, k):
     return imagem_segmentada
 
 
-def salvar_infos(imagem, nome_imagem, k):
-
-    # Informações da imagem original
-    resolucao = imagem.shape[:2]
+def print_info(nome_imagem):
     caminho_completo = os.path.join(diretorio_imagens, nome_imagem)
+    imagem = cv2.imread(caminho_completo) # Carregar a imagem
+
+    resolucao = imagem.shape[:2]
     tamanho_memoria_kb = os.path.getsize(caminho_completo) // 1024  # Tamanho ocupado em memória em KB
-    cores_unicas = len(np.unique(imagem.reshape(-1, imagem.shape[2]), axis=0))
+    cores_unicas = len(np.unique(imagem.reshape(-1, imagem.shape[2]), axis=0)) #Contagem de cores únicas em imagem
 
-    
-    nome_saida = f"imagem_{nome_imagem.split('.')[0]}_k{k}.png"
-
+    resultado = re.search(r'_k(\d+)', nome_imagem)
     with open('informacoes.txt', 'a') as arquivo:
-        arquivo.write(f"Informações para imagem {caminho_completo} com k={k}:\n")
+        if resultado : 
+            arquivo.write(f"Informações para imagem {nome_imagem}:\n")
+            arquivo.write(f"K={resultado.group(1)}:\n")
+        else:
+            arquivo.write(f"Informações para imagem {nome_imagem} (Original)\n")
+            arquivo.write(f"K=Null\n")
+
         arquivo.write(f"Resolução: {resolucao}\n")
         arquivo.write(f"Tamanho em memória: {tamanho_memoria_kb} KB\n")
-        arquivo.write(f"Cores únicas: {cores_unicas}\n")
-        arquivo.write(f"Nome do arquivo de saída: {nome_saida}\n\n\n")
-
-    return nome_saida
-
+        arquivo.write(f"Cores únicas: {cores_unicas}\n\n\n")
+    
 
 for nome_imagem in os.listdir(diretorio_imagens):
     caminho_imagem = os.path.join(diretorio_imagens, nome_imagem)
@@ -58,10 +60,13 @@ for nome_imagem in os.listdir(diretorio_imagens):
         # Aplicar o algoritmo k-means para cada valor de k
         for k in valores_k:
             imagem_segmentada = aplicar_kmeans(imagem_original, k)
-            nome_saida = salvar_infos(imagem_original, nome_imagem, k)
+            nome_saida = f"imagem_{nome_imagem.split('.')[0]}_k{k}.png"
+            print(f"Gerando imagem {nome_saida}")
 
             # Salvar as imagens geradas
             cv2.imwrite(os.path.join(diretorio_imagens, nome_saida), imagem_segmentada)
+            
 
-
-
+for nome_imagem in os.listdir(diretorio_imagens):
+    print(f"Salvando informações de {nome_imagem}")
+    print_info(nome_imagem)

@@ -1,0 +1,56 @@
+Informações para imagem imagem_7_k12.png:
+K=12:
+Resolução: (1157, 1920)
+Tamanho em memória: 866 KB
+Cores únicas: 12
+
+
+Informações para imagem imagem_7_k6.png:
+K=6:
+Resolução: (1157, 1920)
+Tamanho em memória: 562 KB
+Cores únicas: 6
+
+
+Informações para imagem imagem_7_k10.png:
+K=10:
+Resolução: (1157, 1920)
+Tamanho em memória: 757 KB
+Cores únicas: 10
+
+
+Informações para imagem imagem_7_k4.png:
+K=4:
+Resolução: (1157, 1920)
+Tamanho em memória: 355 KB
+Cores únicas: 4
+
+
+Informações para imagem imagem_7_k2.png:
+K=2:
+Resolução: (1157, 1920)
+Tamanho em memória: 144 KB
+Cores únicas: 2
+
+
+Informações para imagem imagem_7_k14.png:
+K=14:
+Resolução: (1157, 1920)
+Tamanho em memória: 914 KB
+Cores únicas: 14
+
+
+Informações para imagem imagem_7_k8.png:
+K=8:
+Resolução: (1157, 1920)
+Tamanho em memória: 665 KB
+Cores únicas: 8
+
+
+Informações para imagem 7.png (Original)
+K=Null
+Resolução: (1157, 1920)
+Tamanho em memória: 2562 KB
+Cores únicas: 178146
+
+
